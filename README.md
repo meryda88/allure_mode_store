@@ -1,0 +1,1 @@
+# allure_mode_store
